@@ -103,16 +103,20 @@ span{
     padding-top: 20px;
 }
 footer{
-    width: 800px;
+    width: 100%;
     height: 300px;
     padding: 20px;
     position: relative;
+    background-color: gray ;
 }
 .flink{
     display: block;
     padding: 10px;
+
 }
 .flink li{
     display: block;
     list-style: none;
+    margin-bottom: 10px;
+    margin-right: 10px;
 }
